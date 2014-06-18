@@ -29,6 +29,7 @@ The processed data is comprised of the following variables:
 
 Variable Name
 
-Variable Name  | Position | Class | Description
-:------------- | :-------------: | :----------: | :----------
-Subject  | 1 | Factor | dfsdsf
+Variable Name  | Position | Class | Description |
+:------------- | :------: | :---: | :---------- |
+Subject | 1 | Factor | Reference to the volunteer (number 1 through 30) whose movement generated the data |
+Actvity | 2 | Factor | The activity the subject performed; 1 of 6 values - WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING |
